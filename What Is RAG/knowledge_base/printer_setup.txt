@@ -1,0 +1,7 @@
+Printing in the Office
+
+The office printers use follow me printing. You send a job from anywhere, then release it at any printer by tapping your badge. Jobs that are not released within twenty four hours are deleted automatically.
+
+On a managed laptop the print queue is already installed and shows up as Rivergate Secure Print. If you cannot see it, restart the laptop while connected to the office network, since the queue is pushed at start up.
+
+Colour printing is enabled for everyone but is tracked per team for cost reporting. Large jobs over one hundred pages should go to the print room instead, and you can drop those in the helpdesk portal under Facilities.

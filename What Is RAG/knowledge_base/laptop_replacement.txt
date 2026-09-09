@@ -1,0 +1,7 @@
+Laptop Replacement and Battery Issues
+
+Rivergate Software replaces work laptops on a three year cycle. If your machine is younger than three years, IT will repair it rather than replace it.
+
+Battery health is the exception. If your battery holds less than sixty percent of its original capacity, or the machine no longer runs for at least three hours unplugged, IT will swap the battery free of charge, regardless of the age of the laptop.
+
+To start either process, open a ticket in the helpdesk portal under Hardware and include your asset tag, which is printed on the sticker underneath the laptop. Battery swaps are done in the office and usually take one working day. Full replacements take five to seven working days because the new machine has to be imaged first.

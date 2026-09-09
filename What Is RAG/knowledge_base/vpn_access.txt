@@ -1,0 +1,7 @@
+Connecting to the Rivergate VPN
+
+All engineers need the VPN to reach internal staging servers and the production database. Client software is installed on every managed laptop, so you should not need to download anything.
+
+Open the VPN client, pick the gateway closest to you, and sign in with your Rivergate account plus your authenticator code. Sessions drop automatically after twelve hours, which is why the client often asks you to sign in again first thing in the morning.
+
+Contractors do not get VPN access by default. Their manager has to request it in the helpdesk portal under Access Requests, and approval usually takes two working days.
