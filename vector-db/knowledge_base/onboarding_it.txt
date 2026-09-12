@@ -1,0 +1,7 @@
+IT Onboarding for New Joiners
+
+New joiners collect their laptop from the IT desk on their first morning. The machine is already imaged with the standard build, so nothing needs installing on day one.
+
+Your manager requests accounts a week before your start date. On your first sign in you set a permanent password and enrol a phone number in the authenticator app. Both steps have to be finished before you can reach email or the code repositories.
+
+Building access badges are handled by Facilities, not IT. If your badge is missing on day one, reception can issue a temporary badge that works for five days.

@@ -1,0 +1,7 @@
+Requesting Software and Licences
+
+Anything on the approved software list can be installed straight from the Rivergate self service app on your laptop. No ticket and no approval needed. That list covers the usual editors, browsers, database clients and design tools.
+
+Software that is not on the list needs a licence request in the helpdesk portal. Include what you need it for and roughly how many months you expect to use it. Requests under two hundred euros per year are approved by your team lead. Anything above that also needs sign off from finance, which adds about a week.
+
+Personal licences bought on your own card are not reimbursed unless finance approved the purchase in advance.
